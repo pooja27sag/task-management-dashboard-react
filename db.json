@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "title": "Complete dashboard UI",
+      "description": "Design and implement the main dashboard interface............",
+      "status": "In Progress",
+      "priority": "Medium",
+      "dueDate": "2025-12-15",
+      "assignedUser": "Jane Smith",
+      "id": "1"
+    },
+    {
+      "title": "nc sna nn",
+      "description": "n scnsn nn nd...........",
+      "status": "Todo",
+      "priority": "Medium",
+      "dueDate": "2025-05-29",
+      "assignedUser": "Mike Johnson",
+      "id": "8270"
+    },
+    {
+      "id": "5670",
+      "title": "mmmmm",
+      "description": "ndnsss maak dkds kmcmkd vndvdmdk",
+      "status": "In Progress",
+      "priority": "Medium",
+      "dueDate": "2025-05-30",
+      "assignedUser": "John Doe"
+    },
+    {
+      "id": "a79c",
+      "title": "n cs m",
+      "description": " kcn mn m",
+      "status": "Todo",
+      "priority": "Medium",
+      "dueDate": "2025-05-29",
+      "assignedUser": "Jane Smith"
+    }
+  ]
+}
