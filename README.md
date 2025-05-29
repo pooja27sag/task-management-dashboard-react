@@ -130,8 +130,6 @@ task-management-dashboard/
 
 - `npm start`: Starts the development server
 - `npm run server`: Starts the mock API server
-- `npm test`: Runs the test suite
-- `npm run build`: Creates a production-ready build
 
 ---
 
